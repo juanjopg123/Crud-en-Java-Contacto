@@ -54,3 +54,5 @@ mysql-connector-java-5.1.23-bin.jar
 
 Verifica que MySQL esté corriendo
 Ejecuta: Run → Run Project (F6)
+
+<img width="314" height="242" alt="image" src="https://github.com/user-attachments/assets/639fc313-3069-4f01-a0af-677166f84c8e" />
