@@ -8,22 +8,37 @@ Permite guardar, modificar, buscar, eliminar y limpiar registros almacenados en 
 📌 Características principales
 
 ✔ Interfaz gráfica construida con Java Swing
+
 ✔ Diseño visual mediante AbsoluteLayout
+
 ✔ Conexión estable a base de datos MySQL
+
 ✔ Operaciones CRUD completas:
+
 Guardar contacto
+
 Modificar contacto
+
 Eliminar contacto
+
 Buscar contacto
+
 Limpiar campos
 
 ✔ Campos manejados:
+
 Documento
+
 Apellido
+
 Nombre
+
 Edad
+
 Género
+
 Teléfono
+
 Celular
 
 -----------------------------------------------------------
@@ -31,6 +46,7 @@ Celular
 🗄 Configuración de la Base de Datos (MySQL)
 
 CREATE DATABASE contacto;
+
 USE contacto;
 
 create table persona (
@@ -48,11 +64,15 @@ create table persona (
 ▶ Cómo ejecutar el proyecto
 
 Abre NetBeans
+
 Importa el proyecto Conectar
+
 Asegúrate de que esté agregado:
+
 mysql-connector-java-5.1.23-bin.jar
 
 Verifica que MySQL esté corriendo
+
 Ejecuta: Run → Run Project (F6)
 
 <img width="350" height="242" alt="image" src="https://github.com/user-attachments/assets/639fc313-3069-4f01-a0af-677166f84c8e" />
